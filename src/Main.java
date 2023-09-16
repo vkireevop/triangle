@@ -17,42 +17,53 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-try {
-        String sideA = "1000";
-        String sideB = "1000";
-        String sideC = "1000";
-
-        List<CoordinantForTriangle> vertices = calculateVertices(sideA, sideB, sideC);
-        String triangleType = determineTriangleType(sideA,sideB,sideC);
-        if (!triangleType.equals(" ")) {
-            LOGGER.info("Тип треугольника: " + determineTriangleType(sideA, sideB, sideC));
-
-            LOGGER.info("Координаты вершин:");
-            for (int i = 0; i < 3; i++) {
-                LOGGER.info("Вершина " + (char)('А' + i) + ": (" + vertices.get(i).getX() + ", " + vertices.get(i).getY() + ")");
-            }
-            LOGGER.info("----------------------------------------");
-        } else {
-            LOGGER.info("Тип треугольника: Не треугольник");
-            LOGGER.info("Координаты вершин: (-1, -1), (-1, -1), (-1, -1)");
-            LOGGER.info("----------------------------------------");
-        }
-
-    } catch (NumberFormatException e) {
-        LOGGER.warning("Введены некорректные данные: " + e.getMessage());
-        LOGGER.info("Тип треугольника: ");
-        LOGGER.info("Координаты вершин: (-2, -2), (-2, -2), (-2, -2)");
-        LOGGER.info("----------------------------------------");
+        ResultEntity resultEntity = getTriangleInfo("1000", "1000", "1000");
     }
 
-}
 
 
-    public static List<CoordinantForTriangle> calculateVertices (String a, String b, String c) {
+    public static ResultEntity getTriangleInfo(String a, String b, String c)
+    {
 
-        float A = Float.parseFloat(a);
-        float B = Float.parseFloat(b);
-        float C = Float.parseFloat(c);
+        try {
+            float A = Float.parseFloat(a);
+            float B = Float.parseFloat(b);
+            float C = Float.parseFloat(c);
+
+            List<CoordinantForTriangle> vertices = calculateVertices(A, B, C);
+            String triangleType = determineTriangleType(A,B,C);
+
+
+            if (!triangleType.equals(" ")) {
+                LOGGER.info("Тип треугольника: " + determineTriangleType(A, B, C));
+                LOGGER.info("Координаты вершин:");
+
+                for (int i = 0; i < 3; i++) {
+                    LOGGER.info("Вершина " + (char)('А' + i) + ": (" + vertices.get(i).getX() + ", " + vertices.get(i).getY() + ")");
+                }
+                LOGGER.info("----------------------------------------");
+                return new ResultEntity(determineTriangleType(A,B,C), new CoordinantForTriangle(vertices.get(0).getX(),vertices.get(0).getY()),
+                        new CoordinantForTriangle(vertices.get(1).getX(),vertices.get(1).getY()),new CoordinantForTriangle(vertices.get(2).getX(),vertices.get(2).getY()));
+            } else {
+                LOGGER.info("Тип треугольника: Не треугольник");
+                LOGGER.info("Координаты вершин: (-1, -1), (-1, -1), (-1, -1)");
+                LOGGER.info("----------------------------------------");
+
+            }
+            return null;
+
+        } catch (NumberFormatException e) {
+            LOGGER.warning("Введены некорректные данные: " + e.getMessage());
+            LOGGER.info("Тип треугольника: ");
+            LOGGER.info("Координаты вершин: (-2, -2), (-2, -2), (-2, -2)");
+            LOGGER.info("----------------------------------------");
+
+            return null;
+        }
+
+
+    }
+    public static List<CoordinantForTriangle> calculateVertices (float A, float B, float C) {
         CoordinantForTriangle Ac = new CoordinantForTriangle( 0, 0 );
         CoordinantForTriangle Bc = new CoordinantForTriangle(A, 0);
         float angleC = (float) Math.acos((A * A + B * B - C * C)/(2 * A * B));
@@ -69,11 +80,8 @@ try {
         result.add(Cc);
         return result;
     }
-    public static String determineTriangleType(String a, String b, String c) {
+    public static String determineTriangleType(float A, float B, float C) {
 
-        float A = Float.parseFloat(a);
-        float B = Float.parseFloat(b);
-        float C = Float.parseFloat(c);
 
         if (A == B && B == C) {
             return "Треугольник равносторонний";
@@ -86,6 +94,51 @@ try {
         }
     }
 
+}
+class ResultEntity {
+    String typeTriangle;
+    CoordinantForTriangle A;
+    CoordinantForTriangle B;
+    CoordinantForTriangle C;
+
+    public ResultEntity(String typeTriangle, CoordinantForTriangle a, CoordinantForTriangle b, CoordinantForTriangle c) {
+        this.typeTriangle = typeTriangle;
+        A = a;
+        B = b;
+        C = c;
+    }
+
+    public String getTypeTriangle() {
+        return typeTriangle;
+    }
+
+    public void setTypeTriangle(String typeTriangle) {
+        this.typeTriangle = typeTriangle;
+    }
+
+    public CoordinantForTriangle getA() {
+        return A;
+    }
+
+    public void setA(CoordinantForTriangle a) {
+        A = a;
+    }
+
+    public CoordinantForTriangle getB() {
+        return B;
+    }
+
+    public void setB(CoordinantForTriangle b) {
+        B = b;
+    }
+
+    public CoordinantForTriangle getC() {
+        return C;
+    }
+
+    public void setC(CoordinantForTriangle c) {
+        C = c;
+    }
 }
 
 class CoordinantForTriangle {
