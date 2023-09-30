@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
@@ -17,7 +18,7 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-        ResultEntity resultEntity = getTriangleInfo("1000", "1000", "1000");
+        ResultEntity resultEntity = getTriangleInfo("100", "100", "150");
     }
 
 
@@ -53,12 +54,14 @@ public class Main {
             return null;
 
         } catch (NumberFormatException e) {
+
             LOGGER.warning("Введены некорректные данные: " + e.getMessage());
             LOGGER.info("Тип треугольника: ");
             LOGGER.info("Координаты вершин: (-2, -2), (-2, -2), (-2, -2)");
             LOGGER.info("----------------------------------------");
 
-            return null;
+            return new ResultEntity(" ", new CoordinantForTriangle(-2,-2), new CoordinantForTriangle(-2,-2)
+            , new CoordinantForTriangle(-2,-2));
         }
 
 
@@ -82,15 +85,18 @@ public class Main {
     }
     public static String determineTriangleType(float A, float B, float C) {
 
-
-        if (A == B && B == C) {
-            return "Треугольник равносторонний";
-        } else if ((A == B && C < A + B) || (B == C && A < C + B) || (A == C && B < A + C)) {
-            return "Треугольник равнобедренный";
-        } else if (C < A + B && A < B + C && B < A + C) {
-            return "Треугольник разносторонний";
+        if (A != 0 && B != 0 && C!=0) {
+            if (A == B && B == C) {
+                return "Треугольник равносторонний";
+            } else if ((A == B && C < A + B) || (B == C && A < C + B) || (A == C && B < A + C)) {
+                return "Треугольник равнобедренный";
+            } else if (C < A + B && A < B + C && B < A + C) {
+                return "Треугольник разносторонний";
+            } else {
+                return "Не треугольник";
+            }
         } else {
-            return " ";
+            return "Не треугольник";
         }
     }
 
@@ -139,6 +145,19 @@ class ResultEntity {
     public void setC(CoordinantForTriangle c) {
         C = c;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        ResultEntity that = (ResultEntity) o;
+        return Objects.equals(typeTriangle, that.typeTriangle) && Objects.equals(A, that.A) && Objects.equals(B, that.B) && Objects.equals(C, that.C);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(typeTriangle, A, B, C);
+    }
 }
 
 class CoordinantForTriangle {
@@ -158,6 +177,19 @@ class CoordinantForTriangle {
         public void setLocation (float x, float y) {
             this.x = x;
             this.y = y;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        CoordinantForTriangle that = (CoordinantForTriangle) o;
+        return Float.compare(that.x, x) == 0 && Float.compare(that.y, y) == 0;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(x, y);
     }
 
     public float getX() {

@@ -47,3 +47,1191 @@ INFO: Вершина Б: (100.0, 0.0)
 INFO: Вершина В: (50.0, 87.0)
 сент. 16, 2023 10:32:37 AM Main getTriangleInfo
 INFO: ----------------------------------------
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 1:27:27 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 1:28:30 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 1:36:27 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 1:37:09 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 1:58:58 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:00:59 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:01:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:01:26 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:06:22 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:06:30 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:06:37 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: Координаты вершин: (-1, -1), (-1, -1), (-1, -1)
+сент. 30, 2023 2:07:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник разносторонний
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина Б: (75.0, 0.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: Вершина В: (-19.0, 73.0)
+сент. 30, 2023 2:07:25 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Координаты вершин: (-1, -1), (-1, -1), (-1, -1)
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Координаты вершин: (-1, -1), (-1, -1), (-1, -1)
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: Координаты вершин: (-1, -1), (-1, -1), (-1, -1)
+сент. 30, 2023 2:11:15 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:13:23 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:14:45 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:17:16 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:20:35 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:20:36 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:21:57 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:21:58 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:21:58 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:21:58 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:21:58 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:21:58 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:25:28 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: empty String
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:25:38 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: empty String
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:28:08 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (75.0, 66.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 44.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равносторонний
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 87.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник разносторонний
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (75.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (-19.0, 73.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (-50.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: Не треугольник
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин:
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина Б: (100.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Вершина В: (0.0, 0.0)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: For input string: "a"
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+WARNING: Введены некорректные данные: empty String
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Тип треугольника: 
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
+сент. 30, 2023 2:30:33 PM Main getTriangleInfo
+INFO: ----------------------------------------
