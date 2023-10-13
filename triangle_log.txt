@@ -1235,3 +1235,27 @@ INFO: Тип треугольника:
 INFO: Координаты вершин: (-2, -2), (-2, -2), (-2, -2)
 сент. 30, 2023 2:30:33 PM Main getTriangleInfo
 INFO: ----------------------------------------
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник равнобедренный
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: Координаты вершин:
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: Вершина Б: (67.0, 0.0)
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: Вершина В: (-8.0, 66.0)
+окт. 13, 2023 7:00:30 PM Main getTriangleInfo
+INFO: ----------------------------------------
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: Тип треугольника: Треугольник разносторонний
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: Координаты вершин:
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: Вершина А: (0.0, 0.0)
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: Вершина Б: (80.0, 0.0)
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: Вершина В: (6.0, 80.0)
+окт. 13, 2023 7:01:16 PM Main getTriangleInfo
+INFO: ----------------------------------------

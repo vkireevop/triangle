@@ -18,7 +18,7 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-        ResultEntity resultEntity = getTriangleInfo("100", "100", "150");
+        ResultEntity resultEntity = getTriangleInfo("120", "100", "150");
     }
 
 

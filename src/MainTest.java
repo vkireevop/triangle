@@ -4,6 +4,9 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
@@ -50,9 +53,21 @@ class MainTest {
             "100,a,150",
             "a,100,150",
             " , , ,",
-
+            "a,b,c"
     }, ignoreLeadingAndTrailingWhitespace = false)
     void testTriangleType5(String a, String b, String c) {
         Assertions.assertEquals(" ", Main.getTriangleInfo(a,b,c).getTypeTriangle());
+    }
+    @ParameterizedTest
+    @CsvSource(value = {
+            "120,100,150"
+    })
+    void testTriangleCoordinant(float a, float b, float c) {
+        List<CoordinantForTriangle> expected = new ArrayList<>();
+        expected.add(new CoordinantForTriangle(0.0f,0.0f));
+        expected.add(new CoordinantForTriangle(80.0f,0.0f));
+        expected.add(new CoordinantForTriangle(6.0f,80.0f));
+        Assertions.assertEquals(expected, Main.calculateVertices(a,b,c));
+
     }
 }
