@@ -6,6 +6,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
 public class Main {
+
     private static final Logger LOGGER = Logger.getLogger(Main.class.getName());
 
     static {
@@ -18,7 +19,12 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-        ResultEntity resultEntity = getTriangleInfo("120", "100", "150");
+        String[] result = RegistrationChecker.checkRegister("user44", "Password123!", "Password123!");
+        System.out.println(result[0] + " - " + result[1]);
+
+        result = RegistrationChecker.checkRegister("user11", "password123", "password123");
+        System.out.println(result[0] + " - " + result[1]);
+
     }
 
 
